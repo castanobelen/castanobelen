@@ -22,7 +22,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| Dashboard de Conversión Ecommerce | Análisis interactivo del funnel de conversión con segmentación por canal y dispositivo | SQL · GA4 · HTML/JS |
+| [Dashboard de Conversión Ecommerce](https://castanobelen.github.io/ecommerce-conversion-dashboard) | Análisis interactivo del funnel de conversión con segmentación por canal y dispositivo | SQL · GA4 · HTML/JS |
 | Forecasting de Demanda Fashion | Modelo de predicción semanal de ventas por categoría | Python · SQL |
 | Performance de Catálogo ABC/XYZ | Clasificación de SKUs por rotación y variabilidad de demanda | SQL · Excel · Looker |
 | Análisis de Atribución Multicanal | Comparación de modelos de atribución para evaluación de ROI por canal | GA4 · SQL · Looker |
